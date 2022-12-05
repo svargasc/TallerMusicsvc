@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    height: 1000px;    
+    background-image: url(/images/angel-jimenez.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    
+}
+header h1{
+    font-weight: 1;
+    font-size: 180px;      
+    font-family:'Roboto', sans-serif;
+    color: white;
+    text-align: center; 
+    padding-top: 345px;  
+    padding-left: 110px; 
+    margin: 0;
+}
+/*clases*/
+.form_img1{
+    float: right;
+    width: 600px;
+    padding-right: 15%;
+    padding-top: 80px;
+    margin-bottom: 60;
+}
+.form_div1{
+    float: left;
+    padding-bottom: 50px;
+    padding-left: 15%;
+    padding-top: 80px;
+    font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    color:rgba(17, 16, 16, 0.89);
+}
+.form_subtitle2{
+    background: linear-gradient(to right,#FA4A54 ,#DA0170 20%);    
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family:'Roboto', sans-serif;
+}
+.form_div1 h2{
+    font-size: 70px;
+    margin: 20px;
+    margin-left: 0;
+    
+}
+
+.form_div1 button{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #FD4C5C;
+    border-style: none;
+    width: 150px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+}
+.subtitle3{
+    background: linear-gradient(to right,#FA4A54 ,#DA0170 20%);    
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family:'Roboto', sans-serif;
+}
+.img2{
+    float: left;
+    width: 500px;
+    padding-top: 60px;
+    margin-left: 264px;
+    
+}
+.div2{
+    float: right;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-right: 6%;
+    font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    color:rgba(17, 16, 16, 0.89);    
+}
+.div2 button{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #FD4C5C;
+    border-style: none;
+    width: 150px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+}
+.div3{
+    float: right;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-right: 6%;
+    font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    color:rgba(17, 16, 16, 0.89);    
+}
+.div3 h2{
+    color: white;
+}
+.div3 p{
+    color: white;
+}
+.div3 button{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #FD4C5C;
+    border-style: none;
+    width: 150px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+}
+.guitar{
+    background-image: url(./images/john-raptis.png);
+    background-size: cover;
+    background-size: 100vw;
+    height: 720px;
+    background-repeat: no-repeat;
+}
+footer{
+    background:-webkit-linear-gradient(to right,#fd2e5c,#fd4c5c);
+    background: linear-gradient(to right,#fd2e5c,#fd4c5c);
+    color: white;
+    padding-bottom: 26px;
+    font-family:'Roboto', sans-serif;
+}
+table{
+    table-layout: auto;
+    color: white;
+    width: 88%;
+    margin-left: 180px;
+    margin-right: 180px;
+    font-size: 15px;
+}
+td{
+    padding: 15px;
+}
+hr{
+    width: 76%;
+    height: 1px;
+    background-color: white;
+    border: none;
+    margin-right: 15.6%;
+}
+.fila1{
+    padding: 50px;
+}
+.p1{
+    margin: 0;
+    color: white;
+    margin-left: 8.3%;
+    float: left;
+}
+.p2{
+    margin: 0;
+    color: white;
+    padding-left: 77%;
+}
+.clear{
+    clear: both;
+}
